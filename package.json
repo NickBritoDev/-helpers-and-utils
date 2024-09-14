@@ -1,0 +1,22 @@
+{
+  "name": "@helpers-and-utils",
+  "version": "1.2.0",
+  "description": "lib for helpers and utils",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickBritoDev/helper-and-utils.git"
+  },
+  "author": "Nick Brito Dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickBritoDev/helper-and-utils/issues"
+  },
+  "homepage": "https://github.com/NickBritoDev/helper-and-utils#readme"
+}
